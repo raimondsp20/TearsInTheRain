@@ -6201,3 +6201,11 @@ It is recommended that you free some space to avoid issues such as crashed and d
 [2022.03.21-12.42.21:175][132]LogSavePackage: Moving 'H:/Desktop/TearsInTheRain/TearsInTheRain/Saved/MainCityHub_Auto4B370BA854F99B3D083E98D8DF0F1044E.tmp' to 'H:/Desktop/TearsInTheRain/TearsInTheRain/Saved/Autosaves/Game/Maps/MainCityHub_Auto4.umap'
 [2022.03.21-12.42.21:198][132]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainCityHub' took 4.556
 [2022.03.21-12.42.21:198][132]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 4.556
+[2022.03.21-12.46.54:447][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainCityHub" FILE="H:/Desktop/TearsInTheRain/TearsInTheRain/Content/Maps/MainCityHub.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.03.21-12.46.54:459][ 47]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2022.03.21-12.46.59:081][ 47]LogSavePackage: Moving 'H:/Desktop/TearsInTheRain/TearsInTheRain/Saved/MainCityHubD554676F42DEC8FEA68CC59E8A74579A.tmp' to 'H:/Desktop/TearsInTheRain/TearsInTheRain/Content/Maps/MainCityHub.umap'
+[2022.03.21-12.46.59:306][ 47]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainCityHub_BuiltData" FILE="H:/Desktop/TearsInTheRain/TearsInTheRain/Content/Maps/MainCityHub_BuiltData.uasset" SILENT=true
+[2022.03.21-12.47.05:909][ 47]LogSavePackage: Moving 'H:/Desktop/TearsInTheRain/TearsInTheRain/Saved/MainCityHub_BuiltData01DFF4A2482ADFE1E46715BE8BE0EE73.tmp' to 'H:/Desktop/TearsInTheRain/TearsInTheRain/Content/Maps/MainCityHub_BuiltData.uasset'
+[2022.03.21-12.47.05:963][ 47]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.21-12.47.05:963][ 47]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Maps/MainCityHub_BuiltData.MainCityHub_BuiltData
+[2022.03.21-12.47.05:963][ 47]LogContentValidation: Display: Validating World /Game/Maps/MainCityHub.MainCityHub

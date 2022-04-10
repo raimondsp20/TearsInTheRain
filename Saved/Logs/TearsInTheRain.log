@@ -2121,3 +2121,33 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.10-19.21.01:693][395]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2022.04.10-19.21.01:705][395]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
 [2022.04.10-19.21.01:720][396]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.04.10-20.10.56:865][436]LogSlate: Took 0.000974 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.10-20.11.03:432][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2022.04.10-20.11.03:441][150]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.04.10-20.11.03:486][150]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainCityHub.MainCityHub
+[2022.04.10-20.11.03:486][150]Cmd: MAP LOAD FILE="../../../../../TearsInTheRain/Content/Maps/MainCityHub.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.04.10-20.11.03:486][150]LightingResults: New page: Lighting Build
+[2022.04.10-20.11.03:486][150]LoadErrors: New page: Loading map: MainCityHub.umap
+[2022.04.10-20.11.03:487][150]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2022.04.10-20.11.03:488][150]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.04.10-20.11.03:488][150]MapCheck: New page: Map Check
+[2022.04.10-20.11.03:488][150]LightingResults: New page: Lighting Build
+[2022.04.10-20.11.03:492][150]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.04.10-20.11.03:494][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.04.10-20.11.03:494][150]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainCityHub'.
+[2022.04.10-20.11.03:583][150]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.04.10-20.11.03:583][150]LogAIModule: Creating AISystem for world MainCityHub
+[2022.04.10-20.11.03:589][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2022.04.10-20.11.03:594][150]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.04.10-20.11.03:594][150]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.066ms to complete.
+[2022.04.10-20.11.03:594][150]LogFileHelpers: Loading map 'MainCityHub' took 0.108
+[2022.04.10-20.25.58:927][658]Cmd: DELETE
+[2022.04.10-20.25.58:932][658]Cmd: ACTOR DELETE
+[2022.04.10-20.25.58:942][658]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.04.10-20.25.58:946][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2022.04.10-20.25.58:948][658]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2022.04.10-20.26.55:819][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2022.04.10-20.26.55:822][562]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/MainCityHub" FILE="../../../../../TearsInTheRain/Saved/Autosaves/Game/Maps/MainCityHub_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.04.10-20.26.55:878][562]LogSavePackage: Moving '../../../../../TearsInTheRain/Saved/MainCityHub_Auto1FD4B36ED4E0A3E949DE2F6BD83C82A98.tmp' to '../../../../../TearsInTheRain/Saved/Autosaves/Game/Maps/MainCityHub_Auto1.umap'
+[2022.04.10-20.26.55:880][562]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainCityHub' took 0.064
+[2022.04.10-20.26.55:880][562]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
